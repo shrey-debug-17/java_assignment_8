@@ -30,20 +30,8 @@ Features
 
 Project Structure
 
-src/
-└── main/
-    └── java/
-        └── com/
-            └── studentdata/
-                ├── Main.java
-                ├── Student.java
-                ├── StudentManager.java
-                └── exceptions/
-                    ├── DatabaseEmptyException.java
-                    ├── DuplicatePRNException.java
-                    ├── InvalidDOBException.java
-                    ├── InvalidPositionException.java
-                    └── StudentNotFoundException.java
+![image](https://github.com/user-attachments/assets/d8aa0052-ec8f-4440-a74a-fc403069ac37)
+
 
 Class & Exception Descriptions:
 
